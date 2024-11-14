@@ -1,8 +1,8 @@
 # Math and Science resources
 
-![icon](icon.png)
+<img src = "https://github.com/scienceteacherhelper/scienceteacherhelper.github.io/blob/main/icon.png" width="200" height="200">
 
-Welcome! key way to engage students in with puzzles and mazes. Here are some ideas from my online [teacherspayteachers store](https://www.teacherspayteachers.com/store/sciencehelper).
+Welcome! A key way to engage students in with puzzles and mazes. Here are some ideas from my online [teacherspayteachers store](https://www.teacherspayteachers.com/store/sciencehelper).
 
 ## Physics
 - [Kinematics vocabulary tarsia puzzle](https://www.teacherspayteachers.com/Product/Kinematics-vocabulary-tarsia-puzzle-12458791)
