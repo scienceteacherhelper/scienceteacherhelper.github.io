@@ -8,5 +8,4 @@ Welcome! key way to engage students in with puzzles and mazes. Here are some ide
 - [Kinematics vocabulary tarsia puzzle](https://www.teacherspayteachers.com/Product/Kinematics-vocabulary-tarsia-puzzle-12458791)
 
 ## Math
-
-Here are some math and physics resources on sale at my store. A key way t
+- [Math Maze - identifying number of solutions to linear equations](https://www.teacherspayteachers.com/Product/Math-Maze-number-of-solutions-to-systems-of-equations-12478351)
