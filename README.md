@@ -1,6 +1,6 @@
 # Math and Science resources
 
-<img src="https://github.com/scienceteacherhelper/scienceteacherhelper.github.io/blob/main/icon.png" width="200" height="200">
+![icon](icon.png)
 
 Welcome! A key way to engage students in with puzzles and mazes. Here are some ideas from my online [teacherspayteachers store](https://www.teacherspayteachers.com/store/sciencehelper).
 
