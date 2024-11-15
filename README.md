@@ -39,5 +39,8 @@ Welcome! A key way to engage students is with puzzles and mazes. Here are some i
 - [Even, Odd, or Neither Math Maze? (function test)](https://www.teacherspayteachers.com/Product/Even-Odd-or-Neither-Math-Maze-function-test-12498598)
 - [Precalculus Polynomial End Behavior Maze Activity](https://www.teacherspayteachers.com/Product/Precalculus-Polynomial-End-Behavior-Maze-Activity-Brain-Break-for-Students-12511797)
 
+### Worksheets 
+- [End Behavior of Polynomials Worksheet](https://www.teacherspayteachers.com/Product/End-Behavior-of-Polynomials-Worksheet-12539796)
+
 ### Find the hidden message puzzles
 - [Factoring - decode the hidden message puzzle](https://www.teacherspayteachers.com/Product/Factoring-decode-the-hidden-message-puzzle-12485043)
