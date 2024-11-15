@@ -2,7 +2,7 @@
 
 ![icon](icon.png)
 
-Welcome! A key way to engage students in with puzzles and mazes. Here are some ideas from my online [teacherspayteachers store](https://www.teacherspayteachers.com/store/sciencehelper).
+Welcome! A key way to engage students is with puzzles and mazes. Here are some ideas from my online [teacherspayteachers store](https://www.teacherspayteachers.com/store/sciencehelper).
 
 ## Physics and Physical Science
 
