@@ -18,7 +18,7 @@ Welcome! A key way to engage students in with puzzles and mazes. Here are some i
 ### Mazes
 - [Velocity and Acceleration Maze - Speeding up or slowing down?](https://www.teacherspayteachers.com/Product/Velocity-and-Acceleration-Maze-Speeding-up-or-slowing-down-12483511)
 - [Work maze (practice Work=Force times distance)](https://www.teacherspayteachers.com/Product/Work-maze-practice-WorkForce-times-distance-12467473)
-- [momentum maze (solve p=mv) activity](https://www.teacherspayteachers.com/Product/momentum-maze-solve-pmv-activity-12482740)
+- [Momentum maze (solve p=mv) activity](https://www.teacherspayteachers.com/Product/momentum-maze-solve-pmv-activity-12482740)
 - [Hooke's law (f=kx) maze](https://www.teacherspayteachers.com/Product/Hookes-law-fkx-maze-12472927)
   
 ### Worksheets
@@ -37,7 +37,7 @@ Welcome! A key way to engage students in with puzzles and mazes. Here are some i
 - [Math Maze - identifying number of solutions to linear equations](https://www.teacherspayteachers.com/Product/Math-Maze-number-of-solutions-to-systems-of-equations-12478351)
 - [Parallel or Perpendicular? math maze](https://www.teacherspayteachers.com/Product/Parallel-or-Perpendicular-math-maze-12500155)
 - [Even, Odd, or Neither Math Maze? (function test)](https://www.teacherspayteachers.com/Product/Even-Odd-or-Neither-Math-Maze-function-test-12498598)
-- [Precalculus Polynomial End Behavior Maze Activity | Brain Break for Students](https://www.teacherspayteachers.com/Product/Precalculus-Polynomial-End-Behavior-Maze-Activity-Brain-Break-for-Students-12511797)
+- [Precalculus Polynomial End Behavior Maze Activity](https://www.teacherspayteachers.com/Product/Precalculus-Polynomial-End-Behavior-Maze-Activity-Brain-Break-for-Students-12511797)
 
 ### Find the hidden message puzzles
 - [Factoring - decode the hidden message puzzle](https://www.teacherspayteachers.com/Product/Factoring-decode-the-hidden-message-puzzle-12485043)
