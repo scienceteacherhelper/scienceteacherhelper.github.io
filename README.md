@@ -6,6 +6,9 @@ Welcome! A key way to engage students in with puzzles and mazes. Here are some i
 
 ## Physics
 - [Kinematics vocabulary tarsia puzzle](https://www.teacherspayteachers.com/Product/Kinematics-vocabulary-tarsia-puzzle-12458791)
+- [Work and energy tarsia puzzle](https://www.teacherspayteachers.com/Product/Work-and-energy-tarsia-puzzle-12462800)
+- [Work maze (practice Work=Force times distance)](https://www.teacherspayteachers.com/Product/Work-maze-practice-WorkForce-times-distance-12467473)
+- [Friction tarsia puzzle (middle school level-definitions)](https://www.teacherspayteachers.com/Product/Friction-tarsia-puzzle-middle-school-level-definitions-12517208)
 - [Newton's Laws Activity (tarsia puzzle)](https://www.teacherspayteachers.com/Product/Newtons-Laws-Activity-tarsia-puzzle-12458767)
 - [Forces in fluids tarsia puzzle (definitions at middle school level)](https://www.teacherspayteachers.com/Product/Forces-in-fluids-tarsia-puzzle-definitions-at-middle-school-level-12517396)
 - [Centripetal acceleration tarsia puzzle](https://www.teacherspayteachers.com/Product/centripetal-acceleration-tarsia-puzzle-12485165)
